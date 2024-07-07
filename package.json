@@ -1,0 +1,11 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.16.4",
+    "i": "^0.3.7",
+    "npm": "^10.8.1",
+    "undici-types": "^6.19.2"
+  }
+}
